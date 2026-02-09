@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-This is "SomarixOS!" A Console Launcher Theme inspired by the [IISU Launcher](https://iisu.network/) This theme will include essentials like Background Themes, Icons, & BGM For dual screen support there will also be thumbnails for bottom screen support!
+This is "SomarixOS!" A (Console Launcher)[https://github.com/likeich/console-launcher] Theme inspired by the [IISU Launcher](https://iisu.network/) This theme will include essentials like Background Themes, Icons, & BGM For dual screen support there will also be thumbnails for bottom screen support!
 
 ## Avalible Now
 Wave 1 of Icons is now realased which includes
@@ -19,6 +19,6 @@ Wave 1 of Icons is now realased which includes
 - All the icons on Wave 1 will now also have a bottom screen image which is avalible to download right now :) (check the relases page)
 (Wave 2 will begin development and will release February 2026 or at the least mid February)
 
-## Hiring
-
-If you would like to help out with BGM or improve some icons please reach out to me on Discord (somarixcore)! 
+# Updates
+- Wave 1 is currently out to install
+- Wave 2 will include new icons along with custom BGM menu for the CL menu composed by: [Ashonic](https://www.youtube.com/@ashonicstudios)

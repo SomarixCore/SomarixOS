@@ -1,4 +1,4 @@
-<img width="9988" height="2045" alt="PaintyOS" src="https://github.com/user-attachments/assets/6140f357-2437-4e78-9771-c01ddbe4dd6d" />
+<img width="12784" height="2372" alt="Group 486 (1)" src="https://github.com/user-attachments/assets/dd160633-74ee-439c-b6e8-c9c469fc1401" />
 
 ## Welcome!
 
